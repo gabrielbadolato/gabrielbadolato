@@ -6,7 +6,6 @@ Hoje meu interesse está onde a biologia encontra a computação: **bioinformát
 
 - 🔬 Iniciação Científica no **LMDM** (Laboratório de Modelagem em Dinâmica Molecular), Instituto de Biofísica Carlos Chagas Filho – UFRJ
 - 🧬 Trabalhando com estudos QM/MM de biomembranas
-- 🎮 Nas horas vagas: o [**Tyrian 2000+**](https://github.com/gabrielbadolato/tyrian2000plus), uma versão modernizada do Tyrian 2000 com controles modernos, para Windows, Linux e Steam Deck
 
 ---
 
@@ -21,10 +20,5 @@ I'm interested in the space where biology meets computing: **bioinformatics, com
 
 - 🔬 Undergraduate researcher at **LMDM** (Molecular Dynamics Modeling Lab), Carlos Chagas Filho Institute of Biophysics – UFRJ
 - 🧬 Working on QM/MM studies of biomembranes
-- 🎮 Side project: [**Tyrian 2000+**](https://github.com/gabrielbadolato/tyrian2000plus), Tyrian 2000 with modern controllers for Windows, Linux and Steam Deck
 
 </details>
-
----
-
-🎮 Meus jogos no [itch.io](https://gabrielbadolato.itch.io)
